@@ -1,0 +1,38 @@
+{
+    "product":[
+        {
+            "id": 1,
+            "name": "Samsung s8",
+            "color": "black",
+            "price":15000,
+            "brand":"Samsung",
+            "photo":"https://cdn.tgdd.vn/Products/Images/42/78479/samsung-galaxy-s8-4-300x300.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Samsung s9",
+            "color": "Blue",
+            "price":15000,
+            "brand":"Samsung",
+            "photo":"https://cdn.tgdd.vn/Products/Images/42/78479/samsung-galaxy-s8-4-300x300.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Samsung s10",
+            "color": "aqua",
+            "price":15000,
+            "brand":"Samsung",
+            "photo":"https://cdn.tgdd.vn/Products/Images/42/78479/samsung-galaxy-s8-4-300x300.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Samsung s20",
+            "color": "rainbow",
+            "price":15000,
+            "brand":"Samsung",
+            "photo":"https://cdn.tgdd.vn/Products/Images/42/78479/samsung-galaxy-s8-4-300x300.jpg"
+        }
+        
+
+    ]
+}
